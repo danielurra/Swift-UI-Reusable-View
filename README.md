@@ -1,5 +1,10 @@
 # Swift-UI-Reusable-View
 Swift UI Reusable View
+## File > New > File 
+![Screenshot 2024-03-14 at 4 46 50 AM](https://github.com/danielurra/Swift-UI-Reusable-View/assets/51704179/09918fa5-4cf5-4b88-849b-017a9a617b43)<br>
+## iOS > SwiftUI View
+![Screenshot 2024-03-14 at 4 49 29 AM](https://github.com/danielurra/Swift-UI-Reusable-View/assets/51704179/054f66a2-c067-4495-bf88-d9620404947c)
+
 ## Add action to a button
 I know 2(two) ways to add a button, the easy one would be using the **Plus** symbol, see below:<br>
 ![Screenshot 2024-03-14 at 4 38 31 AM](https://github.com/danielurra/Swift-UI-Reusable-View/assets/51704179/5b98e829-7f05-4ffd-b403-a05e0c9c9c62)<br>
