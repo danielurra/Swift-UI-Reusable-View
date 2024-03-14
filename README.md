@@ -1,5 +1,5 @@
 # Swift-UI-Reusable-View
-Swift UI Reusable View, go to create a new file and select file type `SwiftUI view`.<br>
+Swift UI Reusable View, go to create a new file and select file type `SwiftUI View`.<br>
 ## File > New > File 
 ![Screenshot 2024-03-14 at 4 46 50 AM](https://github.com/danielurra/Swift-UI-Reusable-View/assets/51704179/09918fa5-4cf5-4b88-849b-017a9a617b43)<br>
 ## iOS > SwiftUI View
